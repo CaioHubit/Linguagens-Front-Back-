@@ -8,7 +8,7 @@
     <p>Se você está começando a programar, ou apenas precisa de uma referência rápida dos comandos básicos, não deixe de explorar nosso repositório. Estamos aqui para ajudar você a escrever um código HTML incrível! 😊</p>
     <details>
       <summary><h2>🌟 Programação Front-end (HTML) 🌟</h2></summary>
-      <h2>Principais Comandos HTML:</h2>
+      <h2>Principais Comandos HTML(Formatação/Escrita):</h2>
       <ul>
         <li>&lt;html&gt;: Define o início e o fim do documento HTML.</li>
         <li>&lt;head&gt;: Contém informações sobre o documento HTML.</li>
@@ -20,6 +20,20 @@
         <li>&lt;ul&gt; e &lt;li&gt;: Permitem criar listas não ordenadas.</li>
         <li>&lt;div&gt;: Tag de divisão para agrupar elementos.</li>
         <li>&lt;input&gt;: Cria uma caixa de entrada de dados interativa.</li>
+      <h2>Expressões Matemáticas:</h2>
+        <li>Subscrito: H<sub>2</sub>O</li>
+        <li>Sobrescrito: x<sup>2</sup></li>
+        <li>Pi: &pi;</li>
+        <li>Theta: &theta;</li>
+        <li>Delta maiúsculo: &Delta;</li>
+        <li>Mais ou menos: ±</li>
+        <li>Multiplicação: 2 &times; 3</li>
+        <li>Divisão: 10 &div; 2</li>
+        <li>Somatório: &sum;(i = 1 até n) x<sub>i</sub></li>
+        <li>Integral: &int; f(x) dx</li>
+        <li>Fração: <sup>3</sup>/<sub>4</sub></li>
+        <li>Raiz quadrada: &radic;9</li>
+        <li>Raiz cúbica de 27: <sup>1</sup>&radic;27</li>
       </ul>
     </div>
 </body>
